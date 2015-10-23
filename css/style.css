@@ -52,7 +52,7 @@ h2,
 h3,
 h4,
 h5 {
-  color: #7b39aa;
+  color: #6C5196;
   line-height: 1.2;
   font-family: 'Lato', sans-serif;
 }
@@ -288,15 +288,15 @@ textarea.form-control {
   border-color: #009acc;
 }
 .btn-default {
-  border: 1px solid #00c0ff;
-  color: #00c0ff;
-  background: none;
+  border: 1px solid #6C5196;
+  color: #C5FF79;
+  background: #6C5196;
 }
 .btn-default:hover,
 .btn-default:focus,
 .btn-default:active {
-  border: 1px solid #009acc;
-  color: #009acc;
+  border: 1px solid #6C5196;
+  color: #6C5196;
   background: none;
 }
 .download-btn,
@@ -384,7 +384,7 @@ section {
   border-bottom: none;
 }
 .bg-color2-overlay {
-  background-color: rgba(0, 192, 255, 0.7);
+  background-color: rgba(194, 255, 114, 0.7);
   border-bottom: none;
 }
 .bg-color3 {
@@ -466,10 +466,10 @@ section {
 .dark-bg h2,
 .dark-bg h3,
 .dark-bg h4 {
-  color: #fff;
+  color: #6D5193;
 }
 .dark-bg {
-  color: #fff;
+  color: #6D5193;
 }
 .dark-bg #contact_form .form-control,
 .dark-bg #contact_form {
@@ -848,8 +848,8 @@ a.panel-heading {
   width: 70px;
   border-radius: 30px;
   font-size: 32px;
-  color: #fff;
-  background: #00c0ff;
+  color: purple;
+  background: #C5FF79;
   line-height: 70px;
   text-align: center;
 }
@@ -973,7 +973,7 @@ a.panel-heading {
 ----------------------------------------------------------------------------------------*/
 nav.navbar-fixed-top {
   height: 60px;
-  background: #43026f;
+  background: #6D5193;
   color: #fff;
   -webkit-transition: all 0.8s ease-in-out;
   -moz-transition: all 0.8s ease-in-out;
@@ -1011,14 +1011,14 @@ nav.navbar-slide.show-menu {
 .navbar .nav li a:hover,
 .navbar .nav li.active a {
   background: none;
-  color: #00c0ff;
+  color: #C5FF79;
 }
 .navbar .nav li a.main-btn,
 .navbar .nav li a.main-btn:hover,
 .navbar .nav li.active a.main-btn {
-  background: #00c0ff;
+  background: #C5FF79;
   font-weight: bold;
-  color: #fff;
+  color: #6D5193;
 }
 .navbar > .container .navbar-brand,
 .navbar > .container-fluid .navbar-brand {
@@ -1343,7 +1343,7 @@ nav.navbar-slide.show-menu {
   left: 0;
   top: 0;
   font-size: 80px;
-  color: #00c0ff;
+  color: #A5EC48;
 }
 .dark-bg .fact .icon {
   color: inherit;
